@@ -69,19 +69,12 @@
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-```python
-class SahilSharma:
-
-    def __init__(self):
-        self.learning = ["Python", "Machine Learning", "SQL"]
-        self.interests = ["Gaming", "AI", "Content Creation", "Machine Learning"]
-        self.goal = "Become elite in both Tech & Gaming"
-
-    def grind(self):
-        return "Keep Learning 🚀"
-```
+- 🐍 Python & Machine Learning
+- 📊 Practicing Data Science
+- 🎮 Growing my gaming/content brand
+- 🚀 Building consistency every day
 
 ---
 
