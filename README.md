@@ -73,7 +73,6 @@
 
 - 🐍 Python & Machine Learning
 - 📊 Practicing Data Science
-- 🎮 Growing my gaming/content brand
 - 🚀 Building consistency every day
 
 ---
